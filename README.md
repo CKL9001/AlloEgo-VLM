@@ -1,4 +1,4 @@
-# 🚀 Spatial Semantics for Visual-Language Models (VLMs)
+# 🚀 AlloEgo-VLM: Resolving Allocentric and Egocentric Orientation Ambiguities in Visual-Language Model(s)
 
 This repository contains the implementation and dataset for enhancing **Visual-Language Models (VLMs)** in resolving **spatial semantic ambiguities**. Our work tackles the challenges VLMs face when interpreting spatial relationships in natural language without explicit reference frames.
 
