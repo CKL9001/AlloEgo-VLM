@@ -67,4 +67,4 @@ Visual-Language Models, Spatial Semantic Ambiguity, Reference Frame, Egocentric/
 
 ---
 
-# 📄 Please view the [full paper](./IROS25_2024_FI.pdf)
+## 📄 Please view the [full paper](./IROS25_2024_FI.pdf)
