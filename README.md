@@ -27,7 +27,7 @@ We propose a **structured spatial representation** method to identify and annota
 - **Target objects and their orientations**
 - **Reference frame types** (egocentric/allocentric)
 
-Based on this representation, we constructed a **spatially annotated dataset** and fine-tuned a pre-trained VLM using **QLoRA [1]**, integrating these spatial elements into the model.
+Based on this representation, we constructed a **spatially annotated dataset** and fine-tuned a pre-trained VLM using **QLoRA**, integrating these spatial elements into the model.
 
 ## Results
 
@@ -39,8 +39,4 @@ Experimental results show that our method:
 ## Keywords
 
 Visual-Language Models, Spatial Semantic Ambiguity, Reference Frame, Egocentric/Allocentric, Multimodal Reasoning
-
-## Reference
-
-[1] QLoRA: Efficient Finetuning of Quantized LLMs, [link to paper]
 
