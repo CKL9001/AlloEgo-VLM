@@ -20,6 +20,7 @@ Example:
 <p align="center">
   <img src="car-man.png" alt="Car and Man Spatial Ambiguity" width="400"/>
 </p>
+
 - 🚗 Car on the left side, facing left  
 - 🧍 Man on the right side, facing the viewer  
 
