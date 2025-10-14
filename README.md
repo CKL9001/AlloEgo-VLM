@@ -63,7 +63,7 @@ This study investigates the challenge of ambiguity faced by Vision--Language Mod
 
 ## 🏷️ Keywords
 
-Visual-Language Models, Spatial Semantic Ambiguity, Reference Frame, Egocentric/Allocentric, Multimodal Reasoning
+Vision-Language Models, Spatial Ambiguity, Reference Frames, Egocentric/Allocentric, Multimodal Reasoning
 
 ---
 
