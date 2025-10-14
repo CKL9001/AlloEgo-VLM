@@ -67,4 +67,4 @@ Vision-Language Models, Spatial Ambiguity, Reference Frames, Egocentric/Allocent
 
 ---
 
-## 📄 Please view the [full paper](./AlloEgo_VLM_Paper.pdf)
+## 📄 Please view the [Full_Paper](./AlloEgo_VLM_Paper.pdf)
