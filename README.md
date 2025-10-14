@@ -1,4 +1,4 @@
-# 🚀 AlloEgo-VLM: Resolving Allocentric and Egocentric Orientation Ambiguities in Visual-Language Model(s)
+# 🚀 AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision–Language Models
 
 This repository contains the implementation and dataset for enhancing **Visual-Language Models (VLMs)** in resolving **spatial semantic ambiguities**. Our work tackles the challenges VLMs face when interpreting spatial relationships in natural language without explicit reference frames.
 
