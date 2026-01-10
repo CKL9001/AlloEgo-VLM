@@ -33,6 +33,25 @@ Such ambiguities can lead to **wrong decisions in robotics** relying on natural 
 
 ---
 
+## 📂 AlloEgo-View Dataset
+
+We constructed a new dataset, **AlloEgo-View**, comprising (image, query, view-specific answer) triplets. Due to license restrictions of the original datasets and to ensure the reproducibility of our specific preprocessing (cropping, resizing, and spatial annotation), we host the **processed subset** of images on Google Drive.
+
+### 📥 Download
+You can download the processed dataset here:
+👉 **[Download AlloEgo-View Dataset (Google Drive)](https://drive.google.com/drive/folders/1YT_u0dPRujq1dPUOMwUKsuxCqrcAvfP0?usp=sharing)**
+
+### ⚖️ License & Acknowledgement
+The images in **AlloEgo-View** are derived and processed from the following datasets. We do not own the copyright of the original images; they belong to their respective creators and datasets.
+
+* **[GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/about.html) / [MS COCO](https://cocodataset.org/#home)**
+* **[NYU Depth v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)**
+* **[SPAR (Logos Robotics)](https://logosroboticsgroup.github.io/SPAR/)**
+
+> **Disclaimer:** This processed dataset is distributed for **academic and research purposes only**. If you use this dataset, please consider citing the original works listed above in addition to our paper.
+
+---
+
 ## 🛠️ Our Approach
 
 We propose a **structured spatial representation** method to identify and annotate key spatial elements in images:
