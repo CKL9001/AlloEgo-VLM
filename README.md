@@ -44,10 +44,10 @@ You can download the processed dataset here:
 ### ⚖️ License & Acknowledgement
 The images in **AlloEgo-View** are derived and processed from the following datasets. We do not own the copyright of the original images; they belong to their respective creators and datasets.
 
-* **[MS COCO](https://cocodataset.org/#home)**
+* **[COCO Dataset](https://cocodataset.org/#home)**
 * **[GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/index.html)**
-* **[SPAR (Logos Robotics)](https://logosroboticsgroup.github.io/SPAR/)**
-* **[NYU Depth v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)**
+* **[SPAR Dataset](https://logosroboticsgroup.github.io/SPAR/)**
+* **[NYU Depth Dataset v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)**
 
 
 > **Disclaimer:** This processed dataset is distributed for **academic and research purposes only**. If you use this dataset, please consider citing the original works listed above in addition to our paper.
