@@ -39,7 +39,7 @@ We constructed a new dataset, **AlloEgo-View**, comprising (image, query, view-s
 
 ### 📥 Download
 You can download the processed dataset here:
-👉 **[Download AlloEgo-View Dataset (Google Drive)](https://drive.google.com/drive/folders/1YT_u0dPRujq1dPUOMwUKsuxCqrcAvfP0?usp=sharing)**
+👉 **[Download AlloEgo-View Dataset (Google Drive)](https://drive.google.com/drive/folders/1GCEcBWNhmp1a9F_B9QcJJrO09HL345Ei?usp=sharing)**
 
 ### ⚖️ License & Acknowledgement
 The images in **AlloEgo-View** are derived and processed from the following datasets. We do not own the copyright of the original images; they belong to their respective creators and datasets.
